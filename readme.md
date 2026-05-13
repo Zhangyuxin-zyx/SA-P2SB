@@ -268,3 +268,9 @@ For all available arguments:
 ```bash
 python denoise_object.py --help
 ```
+
+# SA-P2SB
+
+This repository provides the official implementation of our manuscript submitted to *The Visual Computer*.
+
+If you find this code useful for your research, please consider citing our related manuscript.
