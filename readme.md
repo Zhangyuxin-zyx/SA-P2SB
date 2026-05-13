@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">SA-P2SB: Structure-Aware Schr¨odinger Bridge for Scene-Level Point Cloud Denoising</h1>
+  <h1 align="center">SA-P2SB: Structure-Aware Schrödinger Bridge for Scene-Level Point Cloud Denoising</h1>
   <h3 align="center"><a href="">📚Paper</a> | <a href="">💾Code</a> </h3>
   <div align="center"></div>
 </p>
@@ -15,8 +15,8 @@
 We recommend creating a clean conda environment before installation.
 
 ```bash
-conda create -n GeoSB python=3.10
-conda activate GeoSB
+conda create -n P2SB python=3.10
+conda activate P2SB
 ```
 
 ### Environment
