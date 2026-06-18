@@ -1,0 +1,15 @@
+## Reproducibility Checklist
+
+| Item | Status | Description |
+|---|---|---|
+| Source code | Available | Public GitHub repository |
+| Usage instructions | Available | See README |
+| Hardware and software | Described | Reported in the manuscript |
+| Random seeds | Described | Seed 42; repeated runs use 42, 3407, and 2025 |
+| PU-Net and PCNet | Public | Official dataset sources are provided |
+| ScanNet++ | Restricted access | Users must obtain access under the official license |
+| ScanNet++ preprocessing | Described | Follows the P2P-Bridge preprocessing pipeline with the settings reported in the manuscript |
+| Scene-level split | Described | 7:3 scene-level split |
+| Evaluation metrics | Described | CD, P2F, F2P, and P2M definitions are reported |
+| Pretrained weights | Not currently released | — |
+| Stable archive / DOI | Not currently available | Repository is still under revision |
